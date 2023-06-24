@@ -1,0 +1,22 @@
+body{
+    /* background-color:bisque ; */
+    background-image: url('./fire.jpg');
+background-repeat: no-repeat;
+background-position:center ;
+background-size: cover;
+}
+h1{
+    color:whitesmoke ;
+    text-align: center;
+}
+nav {
+     
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: blanchedalmond;
+}
